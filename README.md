@@ -8,8 +8,8 @@ The portfolio website is designed to provide an overview of my professional back
 The portfolio website is built using the following technologies and libraries:
 
 🛑 React.js: A popular JavaScript library for building user interfaces.<br>
-🛑 HTML5 & CSS3: Markup and styling languages for structuring and presenting the website's content.
-🛑 JavaScript: The primary programming language for adding interactivity and functionality.
-🛑 React Router: A routing library for handling navigation within the single-page application.
-🛑 Styled Components: A CSS-in-JS library for styling React components.
-🛑 Git: Version control system for tracking changes and collaborating with others.
+🛑 HTML5 & CSS3: Markup and styling languages for structuring and presenting the website's content.<br>
+🛑 JavaScript: The primary programming language for adding interactivity and functionality.<br>
+🛑 React Router: A routing library for handling navigation within the single-page application.<br>
+🛑 Styled Components: A CSS-in-JS library for styling React components.<br>
+🛑 Git: Version control system for tracking changes and collaborating with others.<br>
